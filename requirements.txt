@@ -1,0 +1,4 @@
+pygame>=2.6.1
+pyserial>=3.5
+mutagen>=1.47.0
+numpy>=1.26
